@@ -20,7 +20,7 @@
 	전화번호 : ${requestScope.member.phone }<br>
 	이메일 : ${requestScope.member.email }<br>
 	
-	<h3>누가 이길 것인가 !</h3>
+	<h3>누가 이길 것인가 ! requestScope 2김~</h3>
 	
 	이름 : ${member.name }<br>
 	나이 : ${member.age }<br>
